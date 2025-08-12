@@ -18,7 +18,3 @@ It features a clean UI, smooth navigation, and sections that can showcase course
 - **React.js** – Frontend framework
 - **React Router** – Page navigation
 - **JavaScript (ES6+)**
-
----
-
-## 📂 Project Structure
